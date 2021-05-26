@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Philip J. Fry",
+    "company": "Planet Express",
+    "species": "human",
+    "thumb": "/images/Philip-J-Fry.jpg"
+  },
+  {
+    "name": "Turanga Leela",
+    "company": "Planet Express",
+    "species": "mutant",
+    "thumb": "/images/Turanga-Leela.jpg"
+  },
+  {
+    "name": "Bender Bending Rodriguez",
+    "company": "Planet Express",
+    "species": "robot",
+    "thumb": "/images/Bender_Rodriguez.jpg"
+  },
+  {
+    "name": "Amy Wong",
+    "company": "Planet Express",
+    "species": "human",
+    "thumb": "/images/AmyWong.jpg"
+  },
+  {
+    "name": "Hermes Conrad",
+    "company": "Planet Express",
+    "species": "human",
+    "thumb": "/images/Hermes.jpg"
+  },
+  {
+    "name": "Professor Hubert J. Farnsworth",
+    "company": "Planet Express",
+    "species": "human",
+    "thumb": "/images/Professor-Farnsworth.jpg"
+  },
+  {
+    "name": "Doctor John Zoidberg",
+    "company": "Planet Express",
+    "species": "decapodian",
+    "thumb": "/images/Dr_John_Zoidberg.jpg"
+  },
+  {
+    "name": "Zapp Brannigan",
+    "company": "Democratic Order of Planets",
+    "species": "human",
+    "thumb": "/images/Zapp-Brannigan.jpg"
+  },
+  {
+    "name": "Kif Kroker",
+    "company": "Democratic Order of Planets",
+    "species": "amphibiosans",
+    "thumb": "/images/Kif-Kroker.jpg"
+  },
+  {
+    "name": "Mom",
+    "company": "MomCorp",
+    "species": "human",
+    "thumb": "/images/Mom.jpg"
+  },
+  {
+    "name": "Scruffy Scruffington",
+    "company": "Planet Express",
+    "species": "human",
+    "thumb": "/images/Scruffy.jpg"
+  },
+  {
+    "name": "Morbo",
+    "company": "Channel √2 News",
+    "species": "unknown",
+    "thumb": "/images/Morbo.jpg"
+  },
+  {
+    "name": "Slurms MacKenzie",
+    "company": "Slurm",
+    "species": "slurm worm",
+    "thumb": "/images/Slurm-1-.jpg"
+  },
+  {
+    "name": "Larry Miller",
+    "company": "MomCorp",
+    "species": "human",
+    "thumb": "/images/Larry.jpg"
+  },
+  {
+    "name": "Igner Miller",
+    "company": "MomCorp",
+    "species": "human",
+    "thumb": "/images/Larry.jpg"
+  },
+  {
+    "name": "Walter Miller",
+    "company": "MomCorp",
+    "species": "human",
+    "thumb": "/images/Larry.jpg"
+  },
+  {
+    "name": "Linda van Schoonhoven",
+    "company": "Channel √2 News",
+    "species": "human",
+    "thumb": "/images/Linda.jpg"
+  },
+  {
+    "name": "Wormulon Queen",
+    "company": "Slurm",
+    "species": "slurm worm",
+    "thumb": "/images/Wormulon_Queen.jpg"
+  },
+  {
+    "name": "Lrrr",
+    "company": "Omicron Persei 8",
+    "species": "omicronian",
+    "thumb": "/images/Lrrr.jpg"
+  },
+  {
+    "name": "Ndnd",
+    "company": "Omicron Persei 8",
+    "species": "omicronian",
+    "thumb": "/images/Ndnd.jpg"
+  }
+]
